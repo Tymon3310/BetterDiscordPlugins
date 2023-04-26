@@ -37,7 +37,7 @@ module.exports = class discordExperiments {
           buttons: [
             {
               label: "Report",
-              onClick: () => window.open("https://github.com/vincentwang0905/DiscordExperiments/issues", "mozillaTab")
+              onClick: () => window.open("https://github.com/Tymon3310/BetterDiscordPlugins/issues", "mozillaTab")
             }
           ]
         }
@@ -49,7 +49,7 @@ module.exports = class discordExperiments {
           buttons: [
             {
               label: "Report",
-              onClick: () => window.open("https://github.com/vincentwang0905/DiscordExperiments/issues", "mozillaTab")
+              onClick: () => window.open("https://github.com/Tymon3310/BetterDiscordPlugins/issues", "mozillaTab")
             }
           ]
         }
