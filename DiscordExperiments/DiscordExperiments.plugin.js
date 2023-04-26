@@ -4,7 +4,7 @@
  * @authorId 541278426347208746
  * @description Enables the ability to use discord experiments
  * @version 1.0
- * @source 
+ * @source https://github.com/Tymon3310/BetterDiscordPlugins/tree/main/DiscordExperiments
  */
 
 module.exports = class discordExperiments {
